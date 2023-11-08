@@ -1,0 +1,17 @@
+* {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+
+.title {
+    text-align: center;
+    font-size: 45px;
+}
+
+.blueberry, .macncheese, .lasagna {
+    text-align: left;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    margin-left: 10px;
+    font-size: 25px;
+}
